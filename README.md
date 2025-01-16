@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me, I dunno does github have internal PMs?
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm about to become a father.
+- ⚡ Fun fact: I am very busy it seems
 
 <!---
 rabelford/rabelford is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
